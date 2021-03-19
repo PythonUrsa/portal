@@ -24,7 +24,7 @@ django-social-auth==0.7.28
 django-suit==0.2.15
 django-websocket-redis==0.4.4
 django-wysiwyg-redactor==0.4.9
-djangorestframework==3.1.2
+djangorestframework==3.11.2
 djangotoolbox==1.8.0
 gevent==1.0.2
 greenlet==0.4.9
